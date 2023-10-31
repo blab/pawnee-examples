@@ -9,7 +9,7 @@ affiliations: "Chan Zuckerberg Initiative, Redwood City, CA, USA"
 
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-dataset: "https://nextstrain.org/community/nextstrain/pawnee-examples/pawnee-examples?d=tree"
+dataset: "https://nextstrain.org/community/blab/pawnee-examples?d=tree"
 abstract: "This guide serves as an introduction to genomic epidemiology for those working in public health.
 Here, we give a brief primer on genomic epidemiology and how to read a phylogeny.
 We then work through a series of case studies to guide data interpretation for several common scenarios: tracking introductions, resolving ambiguous contact tracing, and determining relationships between outbreaks.  
@@ -20,7 +20,7 @@ We end with resources for further reading and avenues for finding help.
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE  1-->
 
-# [About this guide](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?d=tree&p=grid)
+# [About this guide](https://nextstrain.org/community/blab/pawnee-examples?d=tree&p=grid)
 
 <!-- This is left-side text -->
 
@@ -48,7 +48,7 @@ Finally, we'll wrap up with:
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 2 -->
 
-# [Pre-read](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?d=tree,map&p=grid)
+# [Pre-read](https://nextstrain.org/community/blab/pawnee-examples?d=tree,map&p=grid)
 
 <!-- This is right-side text -->
 
@@ -71,7 +71,7 @@ we strongly recommend reading through this wonderful primer on genomic epidemiol
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 3-->
 
-# [Shared mutations indicate shared history](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?d=tree,map&p=grid)
+# [Shared mutations indicate shared history](https://nextstrain.org/community/blab/pawnee-examples?d=tree,map&p=grid)
 
 <!-- This is left-side text -->
 
@@ -103,7 +103,7 @@ Here, we see the full picture of the transmission tree. In practice, however, on
 <!-- SLIDE 4-->
 <!-- This is left-side text -->
 
-# [First: what am I looking at?](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?d=tree,map&p=grid)
+# [First: what am I looking at?](https://nextstrain.org/community/blab/pawnee-examples?d=tree,map&p=grid)
 
 The horizontal axis (from the root towards the tips) of this tree represents the number of mutations that have occurred since the beginning of the outbreak and the current samples.
 
@@ -155,7 +155,7 @@ Continuing to trace back towards the root, we see that **A, B, C, and D are more
 <!-- SLIDE 5-->
 <!-- This is left-side text -->
 
-# [Format of each case study](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?d=tree,map&p=grid)
+# [Format of each case study](https://nextstrain.org/community/blab/pawnee-examples?d=tree,map&p=grid)
 
 #### Situation
 
@@ -204,7 +204,7 @@ _* This guide borrows publicly available genomic data but uses entirely fictiona
 <!-- SLIDE  6-->
 <!-- This is left-side text -->
 
-# [Case study: tracking introductions](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?c=Epi%20Cluster&d=tree&f_Epi%20Cluster=St%20Joseph%20hospital&p=full)
+# [Case study: tracking introductions](https://nextstrain.org/community/blab/pawnee-examples?c=Epi%20Cluster&d=tree&f_Epi%20Cluster=St%20Joseph%20hospital&p=full)
 
 #### Situation
 
@@ -243,7 +243,7 @@ Case **H** is not closely related to **J, L** and **M**, and is not the result o
 <!-- SLIDE 7-->
 <!-- This is left-side text -->
 
-# [Case study: resolving ambiguous contact tracing](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?c=Epi%20Cluster&d=tree&f_Epi%20Cluster=JJs%20Diner%20-%20waiter,JJs%20diner&p=full)
+# [Case study: resolving ambiguous contact tracing](https://nextstrain.org/community/blab/pawnee-examples?c=Epi%20Cluster&d=tree&f_Epi%20Cluster=JJs%20Diner%20-%20waiter,JJs%20diner&p=full)
 
 #### Situation
 
@@ -276,7 +276,7 @@ The main cluster of cases would be _consistent_ with some indirect transmission 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 8 -->
 
-# [Case study: resolving ambiguous contact tracing](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?c=neighborhood&d=tree&p=full)
+# [Case study: resolving ambiguous contact tracing](https://nextstrain.org/community/blab/pawnee-examples?c=neighborhood&d=tree&p=full)
 
 <!-- This is left-side text -->
 
@@ -309,7 +309,7 @@ Here, we see that the cases from this neighborhood are scattered across the tree
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 9 -->
 
-# [Case study: resolving relationships between outbreaks](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?c=Epi%20Cluster&d=tree&f_employer=Sweetums%20Factory&p=full)
+# [Case study: resolving relationships between outbreaks](https://nextstrain.org/community/blab/pawnee-examples?c=Epi%20Cluster&d=tree&f_employer=Sweetums%20Factory&p=full)
 
 <!-- This is left-side text -->
 
@@ -336,7 +336,7 @@ However, case **D** is a direct descendent of the original outbreak cluster. Thi
 <!-- SLIDE  -->
 <!-- This is left-side text -->
 
-# [Case study: resolving relationships between outbreaks](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?d=tree,map&c=location)
+# [Case study: resolving relationships between outbreaks](https://nextstrain.org/community/blab/pawnee-examples?d=tree,map&c=location)
 
 #### Situation
 
