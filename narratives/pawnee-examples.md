@@ -29,21 +29,21 @@ In this guide, we hope to give you a foundational understanding of genomic epide
 
 We'll start with some brief primers (if you're already familiar with these topics, feel free to skip ahead).
 
-- [How viruses mutate and spread](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=2).
-- [How to read a tree](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=4).  
+- [How viruses mutate and spread](https://nextstrain.org/community/narratives/blab/pawnee-examples/pawnee-interpretation-examples?n=2).
+- [How to read a tree](https://nextstrain.org/community/narratives/blab/pawnee-examples/pawnee-interpretation-examples?n=4).  
   <br><br>
 
 We'll then walk through a series of case studies to demonstrate the kinds of questions that can be answered with genomic epidemiology and guide interpretation, such as:
 
-- [Tracking introductions to a jurisdiction](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=6).
-- [Resolving ambiguous contact tracing links](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=7).
-- [Understanding how local outbreaks are related to each other](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=9).  
+- [Tracking introductions to a jurisdiction](https://nextstrain.org/community/narratives/blab/pawnee-examples/pawnee-interpretation-examples?n=6).
+- [Resolving ambiguous contact tracing links](https://nextstrain.org/community/narratives/blab/pawnee-examples/pawnee-interpretation-examples?n=7).
+- [Understanding how local outbreaks are related to each other](https://nextstrain.org/community/narratives/blab/pawnee-examples/pawnee-interpretation-examples?n=9).  
   <br><br>
 
 Finally, we'll wrap up with:
 
-- [Resources and further reading](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=11).
-- [Where to go for help](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=12).
+- [Resources and further reading](https://nextstrain.org/community/narratives/blab/pawnee-examples/pawnee-interpretation-examples?n=11).
+- [Where to go for help](https://nextstrain.org/community/narratives/blab/pawnee-examples/pawnee-interpretation-examples?n=12).
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 2 -->
@@ -88,7 +88,7 @@ Let's build on this idea and consider how this process plays out within a popula
 # An example of how transmission networks are represented in a tree ("phylogeny")
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/czbiohub/covidtracker/raw/master/narratives/infection_tree.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/blab/pawnee-examples/raw/master/narratives/infection_tree.png"/>
 </p>
 <p>
 The illustration above shows a sketch of a transmission tree. Each circle represents a case (infected person), with horizontal lines indicating the duration of their infection. Connected cases represent transmissions from one person to the next.
@@ -118,7 +118,7 @@ The tips of the tree represent samples (i.e., blue cases from the last slide). T
 ## Working through an example
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny" src="https://github.com/czbiohub/covidtracker/raw/master/narratives/infection_tree_alignment.png"/>
+<img width="700px" alt="Example phylogeny" src="https://github.com/blab/pawnee-examples/raw/master/narratives/infection_tree_alignment.png"/>
 </p>
 </div>
 #### Walking through the tree
@@ -183,7 +183,7 @@ Finally, we'll walk through our interpretation of the genomic data. Did your rea
 # Case studies: tracking SARS-CoV-2 in Pawnee, Indiana
 <div width="50%" margin="auto">
 <p>
-<img width="400px" alt="Welcome to Pawnee" src="https://github.com/czbiohub/covidtracker/raw/master/narratives/pawnee.jpg"/>
+<img width="400px" alt="Welcome to Pawnee" src="https://github.com/blab/pawnee-examples/raw/master/narratives/pawnee.jpg"/>
 </p>
 </div>
 Throughout this guide*, we'll be tracking SARS-CoV-2 in the fictional Pawnee, Indiana.
