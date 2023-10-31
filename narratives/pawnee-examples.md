@@ -88,7 +88,7 @@ Let's build on this idea and consider how this process plays out within a popula
 # An example of how transmission networks are represented in a tree ("phylogeny")
 <div width="50%" margin="auto">
 <p>
-<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/blab/pawnee-examples/raw/master/narratives/infection_tree.png"/>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/blab/pawnee-examples/blob/8109d9d96bb96a1daed4d2e2fd7172866bace12c/narratives/infection_tree.png"/>
 </p>
 <p>
 The illustration above shows a sketch of a transmission tree. Each circle represents a case (infected person), with horizontal lines indicating the duration of their infection. Connected cases represent transmissions from one person to the next.
@@ -118,7 +118,7 @@ The tips of the tree represent samples (i.e., blue cases from the last slide). T
 ## Working through an example
 <div width="50%" margin="auto">
 <p>
-<img width="700px" alt="Example phylogeny" src="https://github.com/blab/pawnee-examples/raw/master/narratives/infection_tree_alignment.png"/>
+<img width="700px" alt="Example phylogeny" src="https://github.com/blab/pawnee-examples/blob/8109d9d96bb96a1daed4d2e2fd7172866bace12c/narratives/infection_tree_alignment.png"/>
 </p>
 </div>
 #### Walking through the tree
@@ -183,7 +183,7 @@ Finally, we'll walk through our interpretation of the genomic data. Did your rea
 # Case studies: tracking SARS-CoV-2 in Pawnee, Indiana
 <div width="50%" margin="auto">
 <p>
-<img width="400px" alt="Welcome to Pawnee" src="https://github.com/blab/pawnee-examples/raw/master/narratives/pawnee.jpg"/>
+<img width="400px" alt="Welcome to Pawnee" src="https://github.com/blab/pawnee-examples/blob/8109d9d96bb96a1daed4d2e2fd7172866bace12c/narratives/pawnee.jpg"/>
 </p>
 </div>
 Throughout this guide*, we'll be tracking SARS-CoV-2 in the fictional Pawnee, Indiana.
@@ -376,7 +376,7 @@ If we assume that the true size of the outbreaks in Pawnee and Eagleton are roug
 <!-- SLIDE  -->
 <!-- This is left-side text -->
 
-# [Resources: further reading](https://nextstrain.org/ncov/global?d=map,c=country)
+# [Resources: further reading](https://nextstrain.org/ncov/open/global/6m?d=map,c=country)
 
 ## Background
 
@@ -397,7 +397,7 @@ If we assume that the true size of the outbreaks in Pawnee and Eagleton are roug
 <!-- SLIDE  -->
 <!-- This is left-side text -->
 
-# [Resources: finding help](https://nextstrain.org/ncov/global?d=map,c=country)
+# [Resources: finding help](https://nextstrain.org/ncov/open/global/6m?d=map,c=country)
 
 Have questions about data interpretation? Head over to [the Nextstrain Discussion Board](https://discussion.nextstrain.org).
 The friendly Nextstrain team is happy to help!
